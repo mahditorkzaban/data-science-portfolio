@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mahdi Torkzaban, data science, quantitative finance and automation">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1B3A"/><stop offset="1" stop-color="#1F6FEB"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#g)"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".08"><circle cx="1050" cy="60" r="140"/><circle cx="1130" cy="250" r="90"/><circle cx="930" cy="230" r="50"/></g>
+  <text x="60" y="110" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="54" font-weight="700" fill="#fff">Mahdi Torkzaban</text>
+  <text x="60" y="152" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="24" fill="#BFD4FF">Data science · Quantitative finance · Automation</text>
+  <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" fill="#fff">
+    <rect x="60" y="188" width="240" height="72" rx="12" fill="#fff" fill-opacity=".12"/>
+    <text x="80" y="226" font-size="30" font-weight="700">0.974</text><text x="80" y="249" font-size="14" fill="#BFD4FF">ROC-AUC, bankruptcy model</text>
+    <rect x="320" y="188" width="240" height="72" rx="12" fill="#fff" fill-opacity=".12"/>
+    <text x="340" y="226" font-size="30" font-weight="700">255,919</text><text x="340" y="249" font-size="14" fill="#BFD4FF">firms modelled</text>
+    <rect x="580" y="188" width="240" height="72" rx="12" fill="#fff" fill-opacity=".12"/>
+    <text x="600" y="226" font-size="30" font-weight="700">15</text><text x="600" y="249" font-size="14" fill="#BFD4FF">valuation methods</text>
+    <rect x="840" y="188" width="240" height="72" rx="12" fill="#fff" fill-opacity=".12"/>
+    <text x="860" y="226" font-size="30" font-weight="700">5</text><text x="860" y="249" font-size="14" fill="#BFD4FF">end-to-end projects</text>
+  </g>
+</svg>

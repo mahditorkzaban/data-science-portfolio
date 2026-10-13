@@ -1,0 +1,13 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+build/
+node_modules/
+__pycache__/
+.venv/
+.env
+.Rhistory
+*.log
+*.xlsx
+*.csv
+*.pkl

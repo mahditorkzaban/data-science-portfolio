@@ -42,4 +42,4 @@ Each project has its own README with the problem, approach, results and how to r
 
 ## Contact
 
-📧 mohammadmahdi.torkzaban@studenti.unipd.it · University of Padova
+📧 [mahditorkzaban5@gmail.com](mailto:mahditorkzaban5@gmail.com) · [mohammadmahdi.torkzaban@studenti.unipd.it](mailto:mohammadmahdi.torkzaban@studenti.unipd.it) · University of Padova

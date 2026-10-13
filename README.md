@@ -4,7 +4,7 @@
 
 <br>
 
-Machine learning for credit risk, corporate valuation and scheduling optimisation, written in Python.
+Financial data analysis in Python: credit-risk machine learning on 255,919 companies, corporate valuation models and optimisation.
 
 </div>
 
@@ -23,7 +23,7 @@ Machine learning for credit risk, corporate valuation and scheduling optimisatio
 ## What I bring
 
 - **Machine learning end to end**: feature engineering, class-imbalance handling, stratified cross-validation, threshold tuning, hyper-parameter search, model comparison.
-- **Finance**: ratio analysis, DCF and relative valuation, credit-risk modelling.
+- **Financial data analysis**: ratio analysis, DCF and relative valuation, credit-risk modelling.
 - **Optimisation and automation**: turning messy operational problems into algorithms that run in seconds.
 - **Languages**: Python, SQL. English, French, Persian.
 
